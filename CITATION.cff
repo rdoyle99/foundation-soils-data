@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use these tables, please cite them as below."
+title: "Foundation Soils data: soil, water, drought, flood and housing figures for US counties, Texas and Ohio cities, and soil series"
+type: dataset
+authors:
+  - name: "Foundation Soils"
+    website: "https://foundationsoils.com"
+url: "https://foundationsoils.com/sources/"
+repository-code: "https://github.com/rdoyle99/foundation-soils-data"
+license: CC-BY-4.0
+date-released: "2026-09-29"
+keywords:
+  - soil
+  - expansive clay
+  - shrink-swell
+  - water table
+  - SSURGO
+  - drought
+  - flood
+  - foundation
