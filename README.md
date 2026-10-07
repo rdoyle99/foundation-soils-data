@@ -13,10 +13,10 @@ compared with each other. Foundation Soils is not part of any foundation repair 
 | `oh-cities.csv` | 922 | active incorporated place in Ohio |
 | `soil-series.csv` | 160 | soil series under the most US housing |
 
-As of: soil survey versions to August 5, 2026; Drought Monitor map of September 22, 2026; FEMA flood records
+As of: soil survey versions to August 5, 2026; Drought Monitor map of September 29, 2026; FEMA flood records
 refreshed September 9, 2026; NOAA rain through August 2026; Census ACS 2020-2024 5-year.
 
-`page_url` links the place's page on foundationsoils.com. It is filled for the 170 county, city and soil series pages open now (70 of them counties); the rest are added as their pages open.
+`page_url` links the place's page on foundationsoils.com. It is filled for every place with a page; places without enough data to rate have none.
 
 ## Columns
 
